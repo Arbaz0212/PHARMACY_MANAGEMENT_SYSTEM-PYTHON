@@ -137,7 +137,6 @@ Convert into web app using Flask or Django
 👨‍💻 Author
 
 A.ARBAZ
-Aspiring Software Engineer | Python Developer
 
 ⭐ Conclusion
 
